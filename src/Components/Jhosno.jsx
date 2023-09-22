@@ -2,7 +2,7 @@
 
 function Jhosno() {
   return (
-    <div>Jhosno</div>
+    <div>Componente Jhosno con cambios</div>
   )
 }
 
