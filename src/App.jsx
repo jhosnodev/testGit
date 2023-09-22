@@ -1,5 +1,5 @@
 import "./App.css";
-import Jhosno from "./assets/Components/Jhosno";
+import Jhosno from "./Components/Jhosno";
 
 function App() {
   return (
