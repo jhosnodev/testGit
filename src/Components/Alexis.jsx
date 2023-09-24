@@ -3,7 +3,6 @@ const Alexis = () => {
     <>
         <div>Alexis</div>
         <h1>I go it</h1>
-        <h2>Hola</h2>
     </>
     
   )
