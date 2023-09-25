@@ -1,5 +1,6 @@
 import "./App.css";
 import Jhosno from "./Components/Jhosno";
+import Gustavo from "./Components/gustavo"
 
 import Laura from "./Components/Laura";
 import Alexis from "./Components/Alexis";
@@ -12,9 +13,11 @@ function App() {
     <>
       <Laura/>
       <Jhosno/>
+      <Gustavo/>
       <Alexis/>
       <Nico/>
       <Jesi />
+
     </>
   );
 }
