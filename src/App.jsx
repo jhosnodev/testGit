@@ -6,6 +6,7 @@ import Laura from "./Components/Laura";
 import Alexis from "./Components/Alexis";
 import Jesi from "./Components/Jesi";
 import Nico from "./Components/Nico"
+import Danilo from "./Components/Danilo";
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
       <Alexis/>
       <Nico/>
       <Jesi />
-
+      <Danilo/>
     </>
   );
 }
